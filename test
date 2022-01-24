@@ -16,3 +16,11 @@ number = 10
 days = 'three'
 e = "I ate %d apples so I was sick for %s days."% (number, days)
 print (e)
+
+## 나는 김준혁입니다.
+## 오늘 날씨가 참 좋구만요
+
+int i, k = 0, 0
+for i in range(1,10):
+    for k in range(5,15):
+        print("i * k = " % (i*k))
